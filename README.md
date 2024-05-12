@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Added few changes in Readme file
 
 Added changes for pull from repository
+
+Added changes for push changes to the git repo
