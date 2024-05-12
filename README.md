@@ -9,3 +9,5 @@ Added few changes in Readme file
 Added changes for pull from repository
 
 Added changes for push changes to the git repo
+
+git push origin update-readme
